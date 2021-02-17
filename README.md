@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abu-Ubada
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning php, sql, mysql
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source web development projects
 - 📫 How to reach me abcoding17@gmail.com
 
 <!---
